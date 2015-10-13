@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/cburkhalter/nca5/Kafka-Protobuf'
+let g:netrw_dirhist_2='/home/cburkhalter/.ssh'
+let g:netrw_dirhist_3='/home/cburkhalter/peinvestigation/rsrc/ONENOTE_Typelib_uifile.EXE'
+let g:netrw_dirhist_4='/home/cburkhalter/peinvestigation'
+let g:netrw_dirhist_5='/home/cburkhalter/peinvestigation/api_rsrc/rsrc'
